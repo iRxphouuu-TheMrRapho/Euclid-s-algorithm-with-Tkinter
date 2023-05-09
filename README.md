@@ -6,9 +6,11 @@ Ce projet permet de calculer le PGCD de deux nombres et de montrer la liste de t
 
 ## Répartition des Taches
 
-```Interface graphique : iRxphouuu```
-```Code Liste des diviseurs : iRxphouuu```
-```Code PGCD : iRxphouuu```
+Interface graphique : iRxphouuu
+
+Code Liste des diviseurs : iRxphouuu
+
+Code PGCD : iRxphouuu
 
 ## Etapes de Réalisations
 

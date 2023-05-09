@@ -1,6 +1,8 @@
 # Algorithme d'Euclide avec Tkinter
 
+
 ![alt tag](https://user-images.githubusercontent.com/104188698/237216584-5b7d4f12-3265-430e-91d8-2c2fc3b1ba33.png)
+
 
 Ce projet est un Algorithme d'Euclide avec FLask créé par iRxphouuu sur demande en cours de maths expertes, cours d'option de spé maths en terminale. 
 
@@ -38,6 +40,10 @@ dans le fichier ```main.py``` il y a toutes les fonctions pour le PGCD, les divi
 ``` calculer_diviseurs ``` : récupération des valeurs entrer par l'utilisateur, calcul du PGCD via l'algorithme d'Euclide et calcul de la liste de tous les diviseurs et intersiection de la liste des diviseurs afin de ne garder que les diviseurs communs
 
 Le reste des fonctions sont les fonctions TKinter permettant de créer l'interface graphique comprenant l'affichage des résultats dans les labels ``` entre les lignes 30 et 32 ```; la création de la fenêtre principale ``` entre les lignes 34 et 36 ```; la création des différents widgets ``` entre les lignes 38 et 45 ```; le placement des widgets dans la fenêtre ``` entre les lignes 47 et 54 ``` et la lancement de la boucle principale de la fenêtre ``` à la ligne 57 ```.
+
+
+![alt tag](https://user-images.githubusercontent.com/104188698/237217297-981a1227-33ad-4315-9a4a-418bd4c5828e.PNG)
+
 
 ## Installation
 Le projet requière Python en version 3.10.2

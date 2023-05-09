@@ -5,13 +5,13 @@ Ce projet est un Algorithme d'Euclide avec FLask créé par iRxphouuu sur demand
 Ce projet permet de calculer le PGCD de deux nombres et de montrer la liste de tous les diviseurs communs des deux nombres à l'aide d'une interface graphique de Tkinter
 
 ## Répartition des Taches
-
+```
 Interface graphique : iRxphouuu
 
 Code Liste des diviseurs : iRxphouuu
 
 Code PGCD : iRxphouuu
-
+```
 ## Etapes de Réalisations
 
 En premier temps : réalisation de la partie calculatoire avec le PGCD et les divisuers.

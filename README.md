@@ -26,7 +26,7 @@ Finalement liaison de l'interface avec la partie calculatoire.
 ``` Nombre b ``` : Permet d'entrer la valeur du nombre b
 ``` Calculer ``` : Calcule le PGCD et la liste des diviseurs communs
 ``` Petite barre horizonatale en haut à droite ``` : Diminue la fenêtre
-``` Carré en haut à droite ``` Met la fenêtre en grand
+``` Carré en haut à droite ``` Permet de mettre la fenêtre en grand
 ``` Croix en haut à droit ``` Ferme totalement la fenêtre et quitte le logiciel
 
 ## Fonctions notables

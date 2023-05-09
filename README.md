@@ -1,6 +1,6 @@
 # Algorithme d'Euclide avec FLask
 
-Ce projet est un Algorithme d'Euclide avec FLask créé par iRxphouuu sur demande en cours
+Ce projet est un Algorithme d'Euclide avec FLask créé par iRxphouuu sur demande en cours de maths expertes
 
 Ce projet permet de calculer le PGCD de deux nombres et de montrer la liste de tous les diviseurs communs des deux nombres à l'aide d'une interface graphique de Tkinter
 

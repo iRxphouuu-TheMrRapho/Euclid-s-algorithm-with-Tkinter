@@ -6,7 +6,7 @@ Ce projet permet de calculer le PGCD de deux nombres et de montrer la liste de t
 
 
 
-Tout le code de base a été imaginé par Monsieur Pioche. Des fonctions ou des modifications des règles du jeu de la vie on été rajoutées par la suite
+
 
 ## Répartition des Taches
 
